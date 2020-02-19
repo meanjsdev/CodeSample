@@ -1,0 +1,7 @@
+
+--require test/init
+--reporter spec
+--recursive
+--colors
+--retries 3
+--timeout 15000
